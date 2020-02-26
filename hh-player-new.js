@@ -1,5 +1,4 @@
 import {html, PolymerElement} from '@polymer/polymer/polymer-element.js';
-import 'web-animations-js/web-animations-next-lite.min';
 import '@polymer/paper-icon-button/paper-icon-button';
 import '@polymer/iron-icons/av-icons';
 import '@polymer/paper-dropdown-menu/paper-dropdown-menu-light';
