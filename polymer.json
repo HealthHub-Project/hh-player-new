@@ -1,4 +1,13 @@
 {
+  "entrypoint": "index.html",
+  "shell": "hh-player-new.js",
+  "sources": [
+    "hh-player-new.js",
+    "package.json"
+  ],
+  "extraDependencies": [
+    "node_modules/@webcomponents/webcomponentsjs/bundles/**"
+  ],
   "npm": true,
   "lint": {
     "rules": [
