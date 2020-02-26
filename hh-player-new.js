@@ -4,7 +4,7 @@ import '@polymer/iron-icons/av-icons.js';
 import '@polymer/paper-dropdown-menu/paper-dropdown-menu-light.js';
 import '@polymer/paper-listbox/paper-listbox.js';
 import '@polymer/paper-item/paper-item.js';
-import '@polymer/paper-slider/paper-slider';
+import '@polymer/paper-slider/paper-slider.js';
 
 /**
  * `hh-player-new`
