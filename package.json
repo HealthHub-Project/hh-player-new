@@ -1,6 +1,6 @@
 {
   "name": "hh-player-new",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "",
   "main": "dist/default/hh-player-new.js",
   "directories": {
@@ -35,6 +35,6 @@
   },
   "homepage": "https://github.com/HealthHub-Project/hh-player-new#readme",
   "files": [
-    "dist/default/hh-player-new.js"
+    "dist"
   ]
 }
