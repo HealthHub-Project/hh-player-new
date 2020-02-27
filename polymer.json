@@ -6,9 +6,10 @@
     "package.json"
   ],
   "extraDependencies": [
-    "node_modules/@webcomponents/webcomponentsjs/bundles/**"
   ],
-  "npm": true,
+  "builds": [{
+    "bundle": false
+  }],
   "lint": {
     "rules": [
       "polymer-3"

@@ -1,0 +1,25 @@
+{
+  "entrypoint": "index.html",
+  "shell": "hh-player-new.js",
+  "fragments": [],
+  "sources": [
+    "hh-player-new.js",
+    "package.json",
+    "index.html",
+    "hh-player-new.js"
+  ],
+  "extraDependencies": [
+    "bower_components/webcomponentsjs/*.js"
+  ],
+  "builds": [
+    {
+      "bundle": false
+    }
+  ],
+  "lint": {
+    "rules": [
+      "polymer-3"
+    ]
+  },
+  "moduleResolution": "node"
+}
