@@ -1,8 +1,8 @@
 {
   "name": "hh-player-new",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "",
-  "main": "dist/default/hh-player-new.js",
+  "main": "dist",
   "directories": {
     "test": "test"
   },
