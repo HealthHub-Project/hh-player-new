@@ -1,6 +1,6 @@
 {
   "name": "hh-player-new",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "",
   "main": "build/default/hh-plyer-new.js",
   "directories": {
@@ -35,7 +35,6 @@
   },
   "homepage": "https://github.com/HealthHub-Project/hh-player-new#readme",
   "files": [
-    "build/default/node_modules",
     "build/default/hh-player-new.js"
   ]
 }

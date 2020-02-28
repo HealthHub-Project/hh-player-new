@@ -1,11 +1,10 @@
 {
-  "entrypoint": "index.html",
+  "entrypoint": "hh-player-new.js",
   "shell": "hh-player-new.js",
   "fragments": [],
   "sources": [
     "hh-player-new.js",
-    "package.json",
-    "index.html",
+    "hh-player-new.js",
     "hh-player-new.js"
   ],
   "extraDependencies": [
@@ -13,7 +12,16 @@
   ],
   "builds": [
     {
-      "bundle": false
+      "bundle": true,
+      "html": {
+        "minify": true
+      },
+      "css": {
+        "minify": true
+      },
+      "js": {
+        "minify": true
+      }
     }
   ],
   "lint": {
