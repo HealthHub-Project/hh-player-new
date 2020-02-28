@@ -1,8 +1,8 @@
 {
   "name": "hh-player-new.js",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "",
-  "main": "@polymer/hh-plyer-new.js",
+  "main": "hh-plyer-new.js",
   "directories": {
     "test": "test"
   },
